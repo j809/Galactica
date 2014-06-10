@@ -1,5 +1,8 @@
-#Galactica
-##A Hotel Management System
+Galactica
+=========
+A Hotel Management System
+
+
 This project is an effort to provide easy hotel management interface.
 It is written in C/C++ using Turbo C++ and utilizes its graphics library to make the program user-friendly.
 
