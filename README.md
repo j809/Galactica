@@ -8,4 +8,4 @@ It is written in C/C++ using Turbo C++ and utilizes its graphics library to make
 
 [INSTRUCTIONS] (https://github.com/j809/Galactica/blob/master/INTSTRUCTIONS.txt)
 
-[LICENSE] (https://github.com/j809/Galactica/blob/master/LICENSE.txt)
+[LICENSE] (https://github.com/j809/Galactica/blob/master/LICENSE)
