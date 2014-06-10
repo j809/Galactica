@@ -1,0 +1,13 @@
+This project is only suppoted by Turbo C++. Since Turbo C++ is no more actively used and is quite outdated, so you have to take care of certain things.
+
+Follow these steps:
+
+1. Copy all files with extension '.h ' into Turbo C++ includes folder.
+
+2. Also, you need to change the path to graphics provided by Turbo C++, i.e. the BGI folder.
+For this, open all files and change the arguement of function initgraph(&gdriver, &gmode, <path to BGI folder>).
+If the path to BGI folder of Turbo C++ is C:\TurboC3\BGI, then replace <path to BGI folder> by "c:\\turboc3\\bgi". So we would have something like this,
+
+	initgraph(&gdriver, &gmode, "c:\\turboc3\\bgi");
+	
+Accordingly change this arguement to function initgraph.
